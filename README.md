@@ -10,10 +10,10 @@
 
  - pip install mechanize
 
-- rm -rf RANDOM
+- rm -rf File-Cloning
 
-- git clone https://github.com/RS-RABBY/RANDOM
+- git clone https://github.com/RS-RABBY/File-Cloning
 
-- cd RANDOM
+- cd File-Cloning
 
 - python File_Cloning.py
